@@ -1,0 +1,10 @@
+{
+  "name": "com.unity.pawamlagents",
+  "version": "0.0.1",
+  "displayName": "Pawa ML Agents",
+  "description": "Pawa ML Agents based package",
+  "unity": "2019.1",
+  "dependencies": {
+    "com.unity.ml-agents": "1.0.8"
+  }
+}
